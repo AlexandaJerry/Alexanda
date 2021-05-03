@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:7.340667,
+https://drive.google.com/file/d/1eEIQFZWMn9EBupXjXGewfO2nitdMZp-M/view?usp=sharing
+#EXTINF:1.501500,
+https://drive.google.com/file/d/1pdhXqJ5NT7M3iTn6R_u1Y95Dc0oQMpzX/view?usp=sharing
+#EXTINF:2.168833,
+https://drive.google.com/file/d/1_Wk-eH0qgMy0PkbjW3CQqiiq7BNYBtXi/view?usp=sharing
+#EXTINF:5.505500,
+https://drive.google.com/file/d/1yzLfsLbW8a9gK6X1OOdFOaxiUcKPYq5A/view?usp=sharing
+#EXTINF:0.959289,
+https://drive.google.com/file/d/1yzLfsLbW8a9gK6X1OOdFOaxiUcKPYq5A/view?usp=sharing
+#EXTINF:1.292967,
+https://drive.google.com/file/d/1yzLfsLbW8a9gK6X1OOdFOaxiUcKPYq5A/view?usp=sharing
+#EXT-X-ENDLIST
